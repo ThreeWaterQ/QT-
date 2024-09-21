@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>head_picture.png</file>
+        <file>bj.jpg</file>
+        <file>cha.jfif</file>
+        <file>exit.png</file>
+        <file>back.png</file>
+        <file>搜索.png</file>
+        <file>form_bj.png</file>
+        <file>xiaotubiao/暴雪.png</file>
+        <file>xiaotubiao/暴雨.png</file>
+        <file>xiaotubiao/冰雹.png</file>
+        <file>xiaotubiao/大暴雨.png</file>
+        <file>xiaotubiao/大雪.png</file>
+        <file>xiaotubiao/大雨.png</file>
+        <file>xiaotubiao/冻雨.png</file>
+        <file>xiaotubiao/多云.png</file>
+        <file>xiaotubiao/雷阵雨.png</file>
+        <file>xiaotubiao/晴.png</file>
+        <file>xiaotubiao/特大暴雨.png</file>
+        <file>xiaotubiao/雾.png</file>
+        <file>xiaotubiao/雾霾.png</file>
+        <file>xiaotubiao/小雪.png</file>
+        <file>xiaotubiao/小雨.png</file>
+        <file>xiaotubiao/阴.png</file>
+        <file>xiaotubiao/雨夹雪.png</file>
+        <file>xiaotubiao/中雪.png</file>
+        <file>xiaotubiao/中雨.png</file>
+        <file>bj_晴.jpg</file>
+        <file>bj_雪.jpg</file>
+        <file>bj_雨.jpg</file>
+        <file>bj_云.jpg</file>
+    </qresource>
+</RCC>
